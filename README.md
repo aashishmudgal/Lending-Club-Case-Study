@@ -21,7 +21,7 @@ This project involves helping the business / finance teams to make an informed d
 The study identifies the risky loan applicants who might end up being a "defaulter" and can significantly bring financial loss to the lending company.
 A analysis is done to identify those driving factors which helps us narrow down to pinpoint who might end up being a defaulter.
  
-Step 1: Data Cleaning and Mining
+Step 1: Data Cleaning and Mining 
 Step 2: Univariate Analysis
 Step 3: Segmented Univariate Analysis
 Step 4: Bivaraiate/Multivariate Analysis
