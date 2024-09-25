@@ -1,7 +1,7 @@
 # Project Name
 > Lending Club Case Study.
 
-##Goals of data analysis:
+Goals of data analysis for this case Study:
 The primary aim of this case study would be to provide capabilities to be able to identify risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
 
 Identification of such applicants using EDA is the aim of this case study.
@@ -21,16 +21,17 @@ This project involves helping the business / finance teams to make an informed d
 The study identifies the risky loan applicants who might end up being a "defaulter" and can significantly bring financial loss to the lending company.
 A analysis is done to identify those driving factors which helps us narrow down to pinpoint who might end up being a defaulter.
  
-Step 1: Data Cleaning and Mining 
-Step 2: Univariate Analysis
-Step 3: Segmented Univariate Analysis
-Step 4: Bivaraiate/Multivariate Analysis
-Step 5: Results
+* Step 1: Data Cleaning and Mining
+* Step 2: Univariate Analysis
+* Step 3: Segmented Univariate Analysis
+* Step 4: Bivaraiate Analysis
+* Step 5: Results
 
 ## Technologies Used
-Pandas 
-Matplotlib 
-Seaborn
+* Pandas
+* Matplotlib
+* Seaborn
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
